@@ -1,0 +1,6 @@
+node_modules/
+*.fasta
+*.fastq
+temporary_*
+test_target
+test_ref
